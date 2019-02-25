@@ -1,0 +1,4 @@
+'.source.routeros':
+  'editor':
+    'commentStart': '# '
+    'foldEndPattern': '\\b(endfunction|end)\\b'
